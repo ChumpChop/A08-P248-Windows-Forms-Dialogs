@@ -1,0 +1,5 @@
+﻿At this point, you are ready to test this code, so run your project. Start with a simple test. Type
+some text into the text box on the form and then click the Save button. The Save dialog box will
+be displayed. Notice that the File name combo box already has the complete path and filename in
+it. This is the path filename that was set in the strFileName variable when you declared it in the
+previous Try It Out.
